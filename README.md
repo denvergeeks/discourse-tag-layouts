@@ -1,6 +1,4 @@
-### First things first. Discourse default settings need some adjustments in order for this to work if you want to use more than 5 Tags per Topic, and/or you want to:
-
-### In your site's admin settings, search for **tag** and insure the following settings:
+### First things first. Discourse default settings need some adjustments in order for this to work. In your site's admin settings, search for **tag** and insure the following settings:
 
 Required: ![discourse-setting-enable-tags-on-topics](https://github.com/denvergeeks/discourse-tag-styles/assets/322529/480a5129-151e-4218-a22f-11b63759adf0)
 
