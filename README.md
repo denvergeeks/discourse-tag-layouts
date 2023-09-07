@@ -30,7 +30,7 @@ Optional (Helpful for Admin): ![discourse-setting-create-post-for-category-and-t
 
 Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks/discourse-tag-styles/assets/322529/f6b92cd8-6401-4e38-871a-cfda2da3b0e0)
 
-# 2) Secondly, you need to create 2 new Tag Groups:
+# 2) Secondly, you need to create 2 new Tag Groups so the Layout Tags will be hidden from (and won't needlessly clutter up) the Side Navigation Menu and the Tags Page:
 
 ![discourse-tag-groups-layout-tags-parent](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/39ae8b97-1d92-495f-b065-4d0e56e0f527)
 
