@@ -146,6 +146,15 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
 
 .category-page,
 .tag-page,
+.tag-hide-small-action-posts {
+  .small-action.onscreen-post {
+    display:none !important;
+  }
+}
+
+
+.category-page,
+.tag-page,
 .tag-hide-more-topics {
   div.more-topics__container {
     display: none !important;
@@ -229,12 +238,6 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
 
 .tag-hide-post-links {
   .post-links-container {
-    display:none !important;
-  }
-}
-
-.tag-hide-small-action-posts {
-  .small-action.onscreen-post {
     display:none !important;
   }
 }
