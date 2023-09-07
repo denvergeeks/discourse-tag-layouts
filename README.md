@@ -4,7 +4,7 @@
 
 # First things first.
 
-## 1) Discourse default settings need some adjustments in order for this to work:
+# 1) Discourse default settings need some adjustments in order for this to work:
 
 In your site's admin settings, search for **tag** and insure the following settings:
 
@@ -30,7 +30,7 @@ Optional (Helpful for Admin): ![discourse-setting-create-post-for-category-and-t
 
 Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks/discourse-tag-styles/assets/322529/f6b92cd8-6401-4e38-871a-cfda2da3b0e0)
 
-## 2) Secondly, you need to create 2 new Tag Groups:
+# 2) Secondly, you need to create 2 new Tag Groups:
 
 ![discourse-tag-groups-layout-tags-parent](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/39ae8b97-1d92-495f-b065-4d0e56e0f527)
 
