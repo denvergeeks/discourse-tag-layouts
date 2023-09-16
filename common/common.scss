@@ -587,5 +587,13 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
   display:none !important;
 }
 
+/********************** SHOW DEFAULT ELEMENTS **********************/
 
-  
+
+.tag-show-timeline {
+  .topic-navigation .with-timeline {
+    display: block !important;
+  }
+}
+
+
