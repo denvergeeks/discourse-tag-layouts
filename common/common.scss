@@ -591,7 +591,7 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
 
 
 .tag-hide-all-but-topic-body.tag-show-timeline {
-  .topic-navigation.with-timeline {
+  div.container.posts .topic-navigation.with-timeline {
     display: block !important;
   }
 }
