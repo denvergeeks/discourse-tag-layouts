@@ -591,9 +591,14 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
 
 
 .tag-hide-all-but-topic-body.tag-show-timeline {
+  .container.posts {
+    grid-template-columns: auto auto;
+  }
   div.container.posts .topic-navigation.with-timeline {
     display: block !important;
   }
 }
+
+
 
 
