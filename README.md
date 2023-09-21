@@ -40,7 +40,6 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 >
 > I also use a plugin to provide a Help Popup inside the Composer:  https://github.com/denvergeeks/discourse-plugin-composer-help-button
 ---
-**This Theme Component crrently provides the following...**
 
 ### Tags to Hide Some Thing(s)...
 
