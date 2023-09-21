@@ -93,4 +93,8 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 
 ### Tags Specific to a Theme Component or Plugin...
 
-| Theme/Component/Plugin | TAG  | HIDES/MODIFIES ELEMENT(S) |
+| Theme/Component/Plugin | TAG                          | HIDES/MODIFIES ELEMENT(S)                                       |
+| ---------------------- | ---------------------------- | --------------------------------------------------------------- |
+| Elegant Theme          | `hide-topic-body-box-shadow` | [removes _box-shadow_ from _.topic-body_ in the Elegant Theme] |
+| Header Submenus        | `hide-header-submenus`       | [removes Header Submenus Theme Component]                      |
+| Discourse Drawer       | `hide-drawer`                | [removes Discourse Drawer Theme Component]                     |
