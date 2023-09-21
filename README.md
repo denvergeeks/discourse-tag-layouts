@@ -34,11 +34,11 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 
 ![discourse-tag-groups-hide-with-tag-child-of-layout-tags-group](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/58b3c759-efec-4148-aa3c-c27c17d9eabb)
 
-## Now your site should be ready to use the following Tags...
+### Now your site should be ready to use the following Tags...
 
-For convenience, [here is a link to an HTML page](https://denvergeeks.github.io/discourse-tag-layouts/) with just the tables.
-
-I also use a plugin to provide a Help Popup inside the Composer:  https://github.com/denvergeeks/discourse-plugin-composer-help-button
+> For convenience, [here is a link to an HTML page](https://denvergeeks.github.io/discourse-tag-layouts/) with just the tables.
+>
+> I also use a plugin to provide a Help Popup inside the Composer:  https://github.com/denvergeeks/discourse-plugin-composer-help-button
 ---
 **This Theme Component crrently provides the following...**
 
