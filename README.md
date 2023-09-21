@@ -1,10 +1,8 @@
-## Discussion and use-cases are described over on Meta...
+### Discussion and use-cases are described over on Meta:  [Create custom layouts for individual Topic Posts in Discourse](https://meta.discourse.org/t/page-publishing/151971/145)
 
-[Create custom layouts for individual Topic Posts in Discourse](https://meta.discourse.org/t/page-publishing/151971/145)
+## First things first...
 
-# First things first.
-
-# 1) Discourse default settings need some adjustments in order for this to work:
+## 1) Discourse default settings need some adjustments in order for this to work:
 
 In your site's admin settings, search for **tag** and insure the following settings:
 
@@ -30,17 +28,19 @@ Optional (Helpful for Admin): ![discourse-setting-create-post-for-category-and-t
 
 Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks/discourse-tag-styles/assets/322529/f6b92cd8-6401-4e38-871a-cfda2da3b0e0)
 
-# 2) Secondly, you need to create 2 new Tag Groups so the Layout Tags will be hidden from (and won't needlessly clutter up) the Side Navigation Menu and the Tags Page:
+## 2) Secondly, you need to create 2 new Tag Groups so the Layout Tags will be hidden from (and won't needlessly clutter up) the Side Navigation Menu and the Tags Page:
 
 ![discourse-tag-groups-layout-tags-parent](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/39ae8b97-1d92-495f-b065-4d0e56e0f527)
 
 ![discourse-tag-groups-hide-with-tag-child-of-layout-tags-group](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/58b3c759-efec-4148-aa3c-c27c17d9eabb)
 
-# Now your site should be ready to use the following Tags...
+## Now your site should be ready to use the following Tags...
 
 For convenience, [here is a link to an HTML page](https://denvergeeks.github.io/discourse-tag-layouts/) with just the tables.
+
+I also use a plugin to provide a Help Popup inside the Composer:  https://github.com/denvergeeks/discourse-plugin-composer-help-button
 ---
-**Currently includes the following...**
+**This Theme Component crrently provides the following...**
 
 ### Tags to Hide Some Thing(s)...
 
