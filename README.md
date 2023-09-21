@@ -40,7 +40,7 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 ---
 **Currently includes the following...**
 
-# Hide Elements Using Tags
+### Tags to Hide Some Thing(s)...
 
 | TAG (You must create the tags!) | HIDES/MODIFIES ELEMENT(S) |
 | ------------- | ------------- |
@@ -82,10 +82,14 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 | ------------- | ------------- |
 | `hide-topic-bg-color`  | [sets _background-color: transparent_ on _#main-outlet_]  |
 
-Background: [Create custom layouts for individual Topic Posts in Discourse](https://meta.discourse.org/t/page-publishing/151971/145)
+### Tag Combinations to Hide All But Show Some Thing(s)...
+
+| TAG1 | TAG2  | SHOWS/MODIFIES ELEMENT(S) |
+| ------------- | ------------- | ------------- |
+| `hide-all-but-topic-body` | `show-timeline` | [Hides Everything But TOC/Topic Timeline] |
+| `?` | `?` | [?] |
+| `?` | `?` | [?] |
+
+### Tags Specific to a Theme Component or Plugin...
 
 | Theme/Component/Plugin | TAG  | HIDES/MODIFIES ELEMENT(S) |
-| ------------- | ------------- | ------------- |
-| Elegant Theme | `hide-topic-body-box-shadow` | [removes _box-shadow_ from _.topic-body_ in the Elegant Theme] |
-| Header Submenus | `hide-header-submenus` | [removes Header Submenus Theme Component] |
-| Discourse Drawer | `hide-drawer` | [removes Discourse Drawer Theme Component] |
