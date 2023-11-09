@@ -34,6 +34,8 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 
 ![discourse-tag-groups-hide-with-tag-child-of-layout-tags-group](https://github.com/denvergeeks/discourse-tag-layouts/assets/322529/58b3c759-efec-4148-aa3c-c27c17d9eabb)
 
+## 3) Thirdly, in order to see and select the "hide-" tags when composing/editing a Post, you need to first add the tag "layout-tags" to the Post. First adding this tag to a Post is necessary (both) to reveal the existing "hide-" tags and also to enable the hiding functionality.
+
 ### Now your site should be ready to use the following Tags...
 
 > For convenience, [here is a link to an HTML page](https://denvergeeks.github.io/discourse-tag-layouts/) with just the tables.
