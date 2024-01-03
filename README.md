@@ -1,3 +1,5 @@
+# https://github.com/denvergeeks/discourse-composer-tag-layouts supercedes this version.
+
 #### Discussion and use-cases are described over on Meta:  [Create custom layouts for individual Topic Posts in Discourse](https://meta.discourse.org/t/page-publishing/151971/145)
 
 # First things first...
